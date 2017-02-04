@@ -1,11 +1,7 @@
-##Install
-
-       git clone https://github.com/meysam-kurd/TabChi-master/
-       cd TabChi-master
-       chmod 777 install.sh
-       ./install.sh
-
-******  
+#نصب
+```
+git clone https://github.com/Mohammadrezar/tablighchi.git && cd tablighchi && chmod 777 install.sh && chmod +x diamond.sh && ./install.sh
+```
  
 ##Create a bot
    
