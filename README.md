@@ -1,5 +1,7 @@
 #[Tablighchi](http://telegram.me/telediamondch)
+
 ستاره فراموش نشه
+
 مراحل روبترتیب انجام بدین
 
 #نصب
@@ -13,14 +15,18 @@ git clone https://github.com/Mohammadrezar/tablighchi.git && cd tablighchi && ch
  ```
       
  #واردکردن شماره دلخواه تبچی و وارد کردن ایدی سودو
+
 در بخشی که گفته
 
 Enter Tabchi Number
+
 یک شماره دلخواه وارد کنید
 مثلا من 1 وارد میکنم
 
 در بخشی که گفته
+
 Enter Sudo Id
+
 ایدی عددی خودتون رو وارد کنید
 
 #ران
