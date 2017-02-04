@@ -1,21 +1,36 @@
+#[Tablighchi](http://telegram.me/telediamondch)
+ستاره فراموش نشه
+مراحل روبترتیب انجام بدین
+
 #نصب
 ```
 git clone https://github.com/Mohammadrezar/tablighchi.git && cd tablighchi && chmod 777 install.sh && chmod +x diamond.sh && ./install.sh
 ```
  
-##Create a bot
-   
-        python3 creator.py
-        
-Enter Tabchi ID : 111
-Enter Full Sudo ID : 123456
-  
-   
-Then
-        ./tabchi-111.sh
+#ساختن و ران کردن
+ ```  
+ python3 creator.py
+ ```
+      
+ #واردکردن شماره دلخواه تبچی و وارد کردن ایدی سودو
+در بخشی که گفته
 
-*****
-         
+Enter Tabchi Number
+یک شماره دلخواه وارد کنید
+مثلا من 1 وارد میکنم
+
+در بخشی که گفته
+Enter Sudo Id
+ایدی عددی خودتون رو وارد کنید
+
+#ران
+
+اگه در بخش قبل 1 زدین کد زیر رو وارد کنید
+```
+./tabchi-1.sh
+```
+و اگه شماره دیگه ای زدین بجای 1 همون شماره رو بجای 1 قرار بدین
+
 ##Anti crash
 
         tmux new-session -s script "bash tabchi-111.sh"
