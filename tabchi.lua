@@ -1,3 +1,5 @@
+-- @TeleDiamondCh
+
 function is_sudo(msg)
   local sudoers = {}
   table.insert(sudoers, tonumber(redis:get("tabchi:" .. tabchi_id .. ":fullsudo")))
