@@ -32,7 +32,7 @@ sudo ppa-purge
 sudo pip3 install redis
 sudo service redis-server restart
 chmod 777 creator.py
-chmod 777 run.sh
+chmod 777 diamond.sh
 chmod 777 telegram-cli-1222
 RED='\033[0;31m'
 NC='\033[0m'
